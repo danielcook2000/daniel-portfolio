@@ -1,0 +1,36 @@
+.experience-section {
+  margin-top: 8%;
+}
+
+@media (max-width: 768px) {
+  .experience-section {
+    margin-top: 35%;
+  }
+}
+
+.responsibilities-list {
+  text-align: left;
+  padding-left: 20px; /* Adds space on the left */
+  margin-top: 10px;
+}
+
+.responsibilities-list li {
+  margin-bottom: 5px; /* Adds spacing between list items */
+}
+
+/* Experience.css */
+
+.experience-card {
+  display: flex;
+  flex-direction: column;
+  height: 100%; /* Makes each card take full height of the container */
+}
+
+.experience-card .card-body {
+  flex-grow: 1; /* Ensures that all cards grow to the same height */
+}
+
+.experience-card .card {
+  min-height: 560px; /* Set a minimum height to make the cards visually consistent */
+  border-color: antiquewhite;
+}
