@@ -19,7 +19,7 @@ function ResumeNew() {
           <Button
             variant="primary"
             href={
-              "https://drive.google.com/uc?export=download&id=1pHAVxWPzVbnQAFcPEERHFyTL6svuXw-O"
+              "https://drive.google.com/uc?export=download&id=1SkevGyHbMDY3Vt-EgSCx51-mhIfxZlYt"
             }
             target="_blank"
           >
@@ -34,7 +34,7 @@ function ResumeNew() {
               className="cardmedia"
               component="iframe"
               Height="1056px"
-              src="https://drive.google.com/file/d/1pHAVxWPzVbnQAFcPEERHFyTL6svuXw-O/preview"
+              src="https://drive.google.com/file/d/1SkevGyHbMDY3Vt-EgSCx51-mhIfxZlYt/preview"
             />
           </Card>
         </Row>
@@ -43,7 +43,7 @@ function ResumeNew() {
           <Button
             variant="primary"
             href={
-              "https://drive.google.com/uc?export=download&id=1pHAVxWPzVbnQAFcPEERHFyTL6svuXw-O"
+              "https://drive.google.com/uc?export=download&id=1SkevGyHbMDY3Vt-EgSCx51-mhIfxZlYt"
             }
             target="_blank"
           >
