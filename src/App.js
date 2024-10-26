@@ -7,6 +7,7 @@ import Home from "./Components/Home/Home";
 import About from "./Components/About/About";
 import Experience from "./Components/Experience/Experience";
 import Resume from "./Components/Resume/ResumeNew";
+import Gallery from "./Components/Gallery/Gallery";
 import ScrollToTop from "./Components/ScrollToTop";
 import "./styles.css";
 import "./App.css";
@@ -35,6 +36,7 @@ export default function App() {
           <Route path="/about" component={About} />
           <Route path="/resume" component={Resume} />
           <Route path="/contact" component={Contact} />
+          <Route path="/gallery" component={Gallery} />
         </Switch>
       </div>
     </Router>
