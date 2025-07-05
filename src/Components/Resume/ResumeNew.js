@@ -10,7 +10,7 @@ function ResumeNew() {
   useEffect(() => {
     setWidth(window.innerWidth);
   }, []);
-
+// https://drive.google.com/file/d/1tFf8AtRbk3Lr6YmyUUWA1CjX6zAiFUtG/view?usp=sharing
   return (
     <div>
       <Container fluid className="resume-section">
@@ -18,8 +18,9 @@ function ResumeNew() {
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
             variant="primary"
+
             href={
-              "https://drive.google.com/uc?export=download&id=1SkevGyHbMDY3Vt-EgSCx51-mhIfxZlYt"
+              "https://drive.google.com/uc?export=download&id=1tFf8AtRbk3Lr6YmyUUWA1CjX6zAiFUtG"
             }
             target="_blank"
           >
@@ -34,7 +35,7 @@ function ResumeNew() {
               className="cardmedia"
               component="iframe"
               Height="1056px"
-              src="https://drive.google.com/file/d/1SkevGyHbMDY3Vt-EgSCx51-mhIfxZlYt/preview"
+              src="https://drive.google.com/file/d/1tFf8AtRbk3Lr6YmyUUWA1CjX6zAiFUtG/preview"
             />
           </Card>
         </Row>
@@ -43,7 +44,7 @@ function ResumeNew() {
           <Button
             variant="primary"
             href={
-              "https://drive.google.com/uc?export=download&id=1SkevGyHbMDY3Vt-EgSCx51-mhIfxZlYt"
+              "https://drive.google.com/uc?export=download&id=1tFf8AtRbk3Lr6YmyUUWA1CjX6zAiFUtG"
             }
             target="_blank"
           >
