@@ -12,11 +12,12 @@ function Experience() {
       description:
         "Specialized in preparing desserts and ensuring high standards in food safety and patient care.",
       responsibilities: [
-        "Serving food to patients according to their diet with special care.",
-        "Following high standards of hygiene and HACCP procedures.",
-        "Preparing sugar-free desserts, cakes, and puddings for patients.",
-        "Ensuring correct food and cooling temperatures according to HACCP procedures.",
-        "Maintaining food safety practices.",
+        "Adapt recipes for dietary requirements such as gluten-free or sugar-free pastries.",
+        "Ensure consistent product quality by following recipe specifications and presentation guidelines.",
+        "Collaborate with chefs and kitchen team to plan seasonal or custom dessert menus.",
+        "Decorate pastries using icing, glazes, and other toppings to meet visual presentation standards.",
+        "Operated professional-grade equipment (combi ovens, dough sheeters, blast chillers) with expert care and precision.",
+        "Prepared and presented high-end pastries, viennoiseries, and plated desserts for Party"
       ],
     },
     {
@@ -27,7 +28,6 @@ function Experience() {
         "Assisted in the production of bakery and pastry items, ensuring adherence to high standards of presentation, taste, and food safety.",
       responsibilities: [
         "Prepared a variety of pastries, breads, and desserts, adhering to recipes and presentation standards.",
-        "Followed health, hygiene, and HACCP procedures to ensure product safety and quality.",
         "Keep records of supplies and equipment inventories",
         "Monitored and maintained the temperature of ingredients and finished products to ensure freshness.",
         "Ensure quality of finished products by checking them for taste and presentation.",
@@ -42,7 +42,6 @@ function Experience() {
       responsibilities: [
         "Assisted in the preparation of baked items like pastries, bread, and desserts under the guidance of senior chefs.",
         "Ensured cleanliness of work areas and maintained hygiene standards at all times.",
-        "Followed HACCP procedures for safe food handling, storage, and temperature control.",
         "Assisted in managing inventory and restocking ingredients for daily operations.",
         "Participated in regular training to improve baking and decorating skills.",
       ],
