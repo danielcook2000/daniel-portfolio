@@ -81,7 +81,7 @@ function Experience() {
       <Particle />
       <Container>
         <h1 className="experience-heading">
-          <strong className="purple">My Experience</strong>
+          <strong className="purple">My Experience (3+ years)</strong>
         </h1>
         <p style={{ color: "white" }}>
           Here are a few positions I've held over the years.
